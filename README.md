@@ -1,4 +1,4 @@
-# Nittany Rover Team website
+# Planetary Systems Laboratory website
 
 Astro static website for a team in establishment at Penn State University Park. Project Sunrise and the intended 2027–28 URC season are described as ambitions, not completed capabilities or confirmed entry.
 

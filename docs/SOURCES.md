@@ -22,7 +22,7 @@ The site’s establishment status, name, research ambitions, recruitment scope, 
 - Local file: `public/images/urc-2017.jpg`.
 - Title: Mars Society University Rover Challenge 2017.
 - Event/date/location: URC group photograph, June 3, 2017, Mars Desert Research Station near Hanksville, Utah.
-- Depicted: competition participants and rovers; no assertion that Nittany Rover Team is depicted.
+- Depicted: competition participants and rovers; no assertion that Planetary Systems Laboratory is depicted.
 - Author credit on source: **Mars Society**; uploader: DarrelRobertson.
 - Source: https://commons.wikimedia.org/wiki/File:Mars_Society_University_Rover_Challenge_2017.jpg
 - Original: https://upload.wikimedia.org/wikipedia/commons/e/eb/Mars_Society_University_Rover_Challenge_2017.jpg
@@ -38,7 +38,7 @@ The site’s establishment status, name, research ambitions, recruitment scope, 
 
 ```text
 Use case: stylized-concept
-Asset type: original cinematic website banner for Nittany Rover Team
+Asset type: original cinematic website banner for Planetary Systems Laboratory
 Primary request: a Mars sunrise landscape, wide panoramic 3:1 aspect ratio.
 Scene/backdrop: rust-colored rocky Martian terrain occupying the bottom third, subtle distant ridgelines at a low horizon; expansive dim basalt-charcoal sky.
 Style/medium: sophisticated conceptual landscape illustration with editorial quality and natural mineral textures, clearly imaginative artwork rather than a real mission photograph.

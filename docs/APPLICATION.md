@@ -2,7 +2,7 @@
 
 Create a group form in the team’s Penn State Microsoft 365 environment when group ownership is available. Restrict responses to people in the organization. Restrict form editing, responses and stored files to designated reviewers; never share a response-summary link publicly.
 
-Title: **Nittany Rover Team — Founding Team Application**
+Title: **Planetary Systems Laboratory — Founding Team Application**
 
 Introduction: “For enrolled Penn State University Park students with relevant experience. Tell us what you have worked on and how you hope to contribute to Project Sunrise.”
 
@@ -16,7 +16,7 @@ University Park eligibility is reviewed from the campus answer; organization sig
 
 Required long answer:
 
-“What relevant experience would you bring to Nittany Rover Team, and what do you hope to contribute or learn through Project Sunrise?”
+“What relevant experience would you bring to Planetary Systems Laboratory, and what do you hope to contribute or learn through Project Sunrise?”
 
 Help text: “Aim for 150–300 words. Be specific about your experience and the contribution you hope to make.” No hard minimum word count.
 
@@ -26,9 +26,9 @@ Help text: “Aim for 150–300 words. Be specific about your experience and the
 - LinkedIn profile URL: required text.
 - Portfolio or GitHub URL: optional text.
 
-Collection notice: “We collect this information to evaluate your interest and qualifications for Nittany Rover Team. Access is restricted to designated application reviewers. For questions about your submission, contact [verified team email].” Replace the bracketed text before opening the form. Do not publish an unspecified retention promise.
+Collection notice: “We collect this information to evaluate your interest and qualifications for Planetary Systems Laboratory. Access is restricted to designated application reviewers. For questions about your submission, contact [verified team email].” Replace the bracketed text before opening the form. Do not publish an unspecified retention promise.
 
-Confirmation: “Thank you. Your application to Nittany Rover Team has been received.” No promised decision or response date.
+Confirmation: “Thank you. Your application to Planetary Systems Laboratory has been received.” No promised decision or response date.
 
 ## Before activating the website link
 

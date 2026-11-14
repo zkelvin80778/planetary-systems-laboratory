@@ -1,5 +1,5 @@
 export const site = {
-  name: 'Nittany Rover Team',
+  name: 'Planetary Systems Laboratory',
   target: '2027–28 academic year',
   applicationUrl: '',
   contactEmail: '',
