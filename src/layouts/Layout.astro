@@ -12,12 +12,12 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <title>{title ? `${title} | ${site.name}` : site.name}</title>
     <meta name="description" content={description} /><link rel="canonical" href={canonical} />
     <meta property="og:title" content={title ? `${title} | ${site.name}` : site.name} /><meta property="og:description" content={description} /><meta property="og:type" content="website" />
-    <link rel="icon" type="image/svg+xml" href={asset('favicon.svg')} />
+    <link rel="icon" type="image/png" href={asset('images/psl-logo.png')} />
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>
     <header class="site-header"><div class="nav-wrap">
-      <a class="wordmark" href={href()} aria-label="Planetary Systems Laboratory home"><img class="wordmark-image" src={asset('images/psl-logo.png')} alt="Planetary Systems Laboratory rover mark" width="1672" height="941" /></a>
+      <a class="wordmark" href={href()} aria-label="Planetary Systems Laboratory home"><img class="wordmark-image" src={asset('images/psl-logo.png')} alt="Planetary Systems Laboratory (PSL) logo" width="1080" height="1080" /></a>
       <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Menu <span aria-hidden="true">☰</span></button>
       <nav id="site-nav" aria-label="Main navigation">{nav.map(([path, label]) => <a class:list={['nav-link', { 'nav-apply': path === 'join' }]} href={href(path)} aria-current={current === path ? 'page' : undefined}>{label}{path === 'join' && <span aria-hidden="true"> ↗</span>}</a>)}</nav>
     </div></header>
