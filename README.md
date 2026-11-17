@@ -22,7 +22,7 @@ Open the local URL printed by Astro. `pnpm build` produces the static site in `d
 
 The original generated banner is `public/images/mars-sunrise.webp`. Its prompt and provenance are recorded in `docs/SOURCES.md`. The historical photograph is separately licensed; see its attribution there and on the URC page.
 
-Applications and support inquiries are closed by default. Do not enter dummy emails or dummy form URLs. To open applications, verify the actual Microsoft form, populate `applicationUrl` and `contactEmail`, then set `applicationsOpen: true`. The open application CTA requires all three values. No application data is stored by the site.
+Applications are closed by default. The Support page lists the team lead and faculty advisor contact details. Do not enter dummy emails or dummy form URLs. To open applications, verify the actual Microsoft form, populate `applicationUrl` and `contactEmail`, then set `applicationsOpen: true`. The open application CTA requires all three values. No application data is stored by the site.
 
 ## GitHub Pages
 
@@ -38,16 +38,16 @@ The workflow obtains the actual origin and repository base path from GitHub Page
 To verify repository-path hosting locally:
 
 ```sh
-SITE_URL=https://example.github.io BASE_PATH=/nittany-rover-team pnpm build
+SITE_URL=https://example.github.io BASE_PATH=/planetary-systems-laboratory pnpm build
 ```
 
-In PowerShell, set those two environment variables before running `pnpm build`. Never commit the example origin as the deployed site address. For a custom domain, configure it in GitHub Pages and recheck canonical URLs, sitemap, HTTPS and asset paths. No domain has been purchased or configured.
+In PowerShell, set those two environment variables before running `pnpm build`. Never commit the example origin as the deployed site address. For a custom domain, configure it in GitHub Pages and recheck canonical URLs, sitemap, HTTPS and asset paths. The custom domain is psupsl.org, configured through Namecheap and GitHub Pages.
 
 ## Hosting
 
-Repository: https://github.com/zkelvin80778/nittany-rover-team
+Repository: https://github.com/zkelvin80778/planetary-systems-laboratory
 
-Site: https://zkelvin80778.github.io/nittany-rover-team/
+Site: https://psupsl.org/
 
-Pushes to main automatically build and deploy. Applications remain closed, and the social links are placeholders until club profiles are available.
+Pushes to main automatically build and deploy. Applications remain closed. LinkedIn links to the Planetary Systems Laboratory company profile; Instagram and Discover PSU remain placeholders.
 

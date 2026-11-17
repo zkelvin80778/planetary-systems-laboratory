@@ -2,7 +2,7 @@
 
 ## Required before opening applications
 
-- GitHub repository: zkelvin80778/nittany-rover-team; Pages uses GitHub Actions.
+- GitHub repository: zkelvin80778/planetary-systems-laboratory; Pages uses GitHub Actions.
 - Verified team contact email.
 - Working Penn State Microsoft Forms URL and designated reviewer access.
 - Confirmed member details only if profile content is to be added.

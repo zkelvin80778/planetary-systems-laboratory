@@ -1,6 +1,6 @@
 # Validation — September 24, 2026
 
-- Astro production build passed for root hosting and `/nittany-rover-team/` repository-path hosting. Seven HTML pages including 404, plus sitemap and robots, were generated.
+- Astro production build passed for root hosting and repository-path hosting. Seven HTML pages including 404, plus sitemap and robots, were generated.
 - Static audit of repository-path output checked 90 internal links/assets and all seven page headings, plus sitemap origin/base path and the closed application/contact states. No errors.
 - Browser inspection: all six routes loaded at 390 px width with one H1 each and no horizontal document overflow. Homepage also checked at 320 px. Desktop homepage, Project Sunrise and URC layouts inspected visually.
 - Mobile menu opened, navigated to Join Us, and closed with Escape. Keyboard focus reached the skip link with a visible outline.
