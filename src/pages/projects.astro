@@ -11,7 +11,7 @@ import { href } from '../data/site';
     <article class="split project-entry">
       <div><h2>Project<br />SUNRISE</h2></div>
       <div>
-        <p class="eyebrow">Rover</p>
+        <h3 class="project-category">Rover</h3>
         <p>Our first rover project explores a modular architecture for different mission profiles and conventional power-generation methods beyond photovoltaic solar and radioisotope thermoelectric generators.</p>
         <a class="button" href={href('project-sunrise')}>Explore SUNRISE</a>
       </div>
@@ -19,11 +19,12 @@ import { href } from '../data/site';
   </section>
 </Layout>
 <style>
-  .projects-list { padding-bottom: 110px; }
-  .project-entry { border-top: 1px solid var(--line); padding-top: 65px; align-items: center; }
+  .projects-list { padding-bottom: 56px; }
+  .project-entry { border-top: 1px solid var(--line); padding-top: 32px; align-items: center; }
   .project-entry h2 { font-size: clamp(2.4rem, 4.8vw, 4.6rem); }
+  .project-category { font-size: clamp(1.5rem, 2.5vw, 2rem); font-weight: 700; margin-bottom: 20px; }
   @media (max-width: 600px) {
-    .projects-list { padding-bottom: 55px; }
-    .project-entry { padding-top: 35px; }
+    .projects-list { padding-bottom: 32px; }
+    .project-entry { padding-top: 24px; }
   }
 </style>
