@@ -17,8 +17,7 @@
 
 
 .project-facts .fact-note{display:block;margin-top:14px;font-size:.875rem;line-height:1.6;text-transform:none;color:var(--muted)}
-.sponsor-strip{border-top:1px solid #333;border-bottom:1px solid #333;padding:55px 20px 50px;margin:0 auto 28px;max-width:900px}.sponsor-strip .eyebrow{margin-bottom:14px}.sponsor-strip h2{font-size:clamp(1.8rem,3vw,2.7rem)}.sponsor-strip p:last-child{margin:18px auto 0;color:#999;font-size:.95rem}
-.sponsor-strip{padding-top:20px;padding-bottom:32px}.sponsor-strip .eyebrow{font-size:1.25rem;letter-spacing:.08em;margin-bottom:0;color:#fff}
+.sponsor-strip{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:32px;border-top:1px solid #333;border-bottom:1px solid #333;padding:24px 20px;margin:0 auto 28px;max-width:900px}.sponsor-logo{display:block;width:112px;height:112px;object-fit:contain}@media(max-width:600px){.sponsor-logo{width:88px;height:88px}}
 @media(max-width:600px){.wordmark-image{width:68.571px;height:25.143px}}
 .notice{border-top:0}
 
